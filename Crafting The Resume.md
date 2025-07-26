@@ -1,11 +1,12 @@
 Your resume is usually the first impression that companies have of you, so you want to make sure that you include relevant information in it. If you’d like to build your resume from scratch, make sure to scroll down to the bottom of this page to download PDFs of resume templates to help you get started. Keep in mind, these are just sample resumes, and you should customize them as you see fit!
 ### What you want to include
-**Who you are: name, address, phone number, email**  
-**Education history: where and what you’ve studied (or are studying)**  
+- Who you are: name, address, phone number, email
 
-**Employment history: where and in what roles you’ve worked (or are working)**  
+- Education history: where and what you’ve studied (or are studying)
 
-**Relevant Skills**  
+- Employment history: where and in what roles you’ve worked (or are working)
+
+### Relevant Skills
 When listing out your education, include colleges attended, certificates obtained, and any additional education programs you’ve completed. You can include a GPA or grade average for degrees if you wish. It is not necessary to include dates for your education section.
 
 If you are a new graduate, or are still studying, you’ll want to include a few additional details, like interesting projects that you did during your studying or highlight an elective subject that you took.  After a few years of professional experience, though, you may simply include the degree, year and location.
@@ -29,5 +30,3 @@ LinkedIn profiles are much more in depth than resumes. You can include specific 
 Adding in personal projects can also be helpful, especially if you have something tangible to show from it. For example, if you’ve created an application, a website, or similar type of product as part of a hobby or school project, include it and provide a link to it.
 
 Just like a resume, list your skills, your experience and what you are looking for as your next step. Make sure that you include all the relevant background information that a recruiter looking at your profile might be interested in. Make sure you are descriptive, don’t assume the reader will have context.
-
-[Resume Example 1_Google IT Support](https://www.coursera.org/api/rest/v1/asset/download/pdf/Wq_49IADQrKv-PSAAyKySg?pageStart=&pageEnd=).
