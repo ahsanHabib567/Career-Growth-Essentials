@@ -1,4 +1,4 @@
-**An elevator pitch is a short description of yourself.  The name comes from the fact that you want it to be so short that you can deliver it to someone that you are meeting in an elevator ride.
+An elevator pitch is a short description of yourself.  The name comes from the fact that you want it to be so short that you can deliver it to someone that you are meeting in an elevator ride.
 
 The goal of the elevator pitch is to explain who you are, what you do and why the other person should be interested in you.
 
@@ -18,4 +18,4 @@ If, instead, you already have a job and you are looking for a change, you will w
 
 Hi! I’m Ellis, I’ve been working at X Company as an IT Support Specialist for the past two years. During those years, I’ve learned a lot about operating systems and networking and I’m looking to switch to a system administrator position, where I can focus on large scale deployments.
 
-Remember that you want to keep it personal, you want to get the attention of the other person and let them know why they are interested in you. Even if you don’t meet them in an elevator, you want to be ready to give people you meet a quick impression of yourself.**
+Remember that you want to keep it personal, you want to get the attention of the other person and let them know why they are interested in you. Even if you don’t meet them in an elevator, you want to be ready to give people you meet a quick impression of yourself.
